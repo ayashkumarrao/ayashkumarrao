@@ -24,4 +24,4 @@
 [instagram]: https://www.instagram.com/ykr4798
 [linkedin]: https://www.linkedin.com/in/yashkumarrao/
 [tableau]: https://public.tableau.com/profile/yash.rao#!/
-[kaggle]: https://public.tableau.com/profile/yash.rao#!/
+[kaggle]: https://www.kaggle.com/ykr4798
