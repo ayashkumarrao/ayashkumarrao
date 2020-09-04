@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Science, Machine Learning, etc.. 🤣
 - 👯 I’m actively looking for a job
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel a lot to reduce stress..
+- ⚡ Fun fact: I love to go on long rides to reduce stress..
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
