@@ -1,5 +1,5 @@
 ### Hi there, I'm Yash 👋
-## I'm a Analyst, looking for a job!!!
+## I'm looking for a job!!!
 
 - 🔭 I’m currently working on improving my technical skills and knowledge!
 - 🌱 I’m currently learning Data Science, Machine Learning, etc.. 🤣
