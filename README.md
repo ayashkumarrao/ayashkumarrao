@@ -1,5 +1,5 @@
 ### Hi there, I'm Yash 👋
-## I'm looking for a job!!!
+## Aspiring data scientist || Data Analyst || Tableau || SQL || Python !!!
 
 - 🔭 I’m currently working on improving my technical skills and knowledge!
 - 🌱 I’m currently learning Data Science, Machine Learning, etc.. 🤣
