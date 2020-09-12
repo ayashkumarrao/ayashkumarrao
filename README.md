@@ -1,11 +1,13 @@
 ### Hi there, I'm Yash 👋
 ## Aspiring data scientist || Data Analyst || Tableau || SQL || Python !!!
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=ykr4798 alt=ykr4798/></p>
 
 - 🔭 I’m currently working on improving my technical skills and knowledge!
 - 🌱 I’m currently learning Data Science, Machine Learning, etc.. 🤣
 - 👯 I’m actively looking for a job
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to go on long rides to reduce stress..
+
 
 ### Connect with me:
 
