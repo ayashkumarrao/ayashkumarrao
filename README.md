@@ -1,4 +1,3 @@
-### Hi there, I'm Yash 👋
 ## Aspiring data scientist || Data Analyst || Tableau || SQL || Python !!!
 
 - 🔭 I’m currently working on improving my technical skills and knowledge!
