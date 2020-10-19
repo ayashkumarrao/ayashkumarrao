@@ -15,11 +15,7 @@
 <img align="left" title="Power BI" alt="Power BI" width="26px" src="https://www.kindpng.com/picc/m/204-2046931_power-bi-icon-power-bi-icon-png-transparent.png" />
 <img align="left" title="Python" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" title="SQL" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" title="Pandas" alt="Pandas" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
-<img align="left" title="Numpy" alt="Numpy" width="66px" src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" />
-<img align="left" title="Mathplotlib" alt="Mathplotlib" width="66px" src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg" />
-<img align="left" title="Seaborn" alt="Seaborn" width="66px" src="https://miro.medium.com/max/4966/1*gM_WIfx7MXOO7jzsPm-Y0Q.png" />
-<img align="left" title="Flask" alt="Flask" width="26px" src="https://www.clipartkey.com/mpngs/m/145-1450089_python-flask-icon.png" />
+
 
 
 <br />
