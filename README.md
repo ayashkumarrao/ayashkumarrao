@@ -7,7 +7,7 @@
 - 👯 I’m actively looking for a job
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to go on long rides to reduce stress..
-- 📝[Resume](https://drive.google.com/file/d/1X1QKjVGvAG6CTIZ805fGspNsmKc7wRsK/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/17HB-tzGNGmQJMzCfOxCmQcGzY_KGuOXN/view?usp=sharing)
 
 ### Languages and Tools:
 
