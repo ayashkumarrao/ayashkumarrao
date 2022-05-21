@@ -1,13 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="28px">, I'm Yash Rao
 
-## Aspiring data scientist || Data Analyst || Tableau || SQL || Python !!!
+## Aspiring data scientist || Data Analyst || Power BI || Tableau || SQL || Python !!!
 
 - 🔭 I’m currently working on improving my technical skills and knowledge!
-- 🌱 I’m currently learning Data Science, Machine Learning, etc.. 🤣
-- 👯 I’m actively looking for a job
+- 🌱 I’m currently learning Data Science, Power BI, etc.. 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to go on long rides to reduce stress..
-- 📝[Resume](https://drive.google.com/file/d/1BB1_rLCysGHXjGgfow8c3uFHhspDd1hh/view?usp=sharing)
 
 ### Languages and Tools:
 
