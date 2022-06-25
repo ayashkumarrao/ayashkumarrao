@@ -1,31 +1,21 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="28px">, I'm Yash Rao
 
-## Aspiring data scientist || Data Analyst || Power BI || Tableau || SQL || Python !!!
+<h1>Hi there, I am <a href="https://ayashkumarrao.github.io/#/">A.Yash Kumar Rao </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1> 
 
-- 🔭 I’m currently working on improving my technical skills and knowledge!
+### Business Intelligence Developer || Data Analyst || Power BI || Tableau || SQL || Python !!!
+
+<img align='right' src="https://github.com/ayashkumarrao/ayashkumarrao.github.io/blob/master/static/media/yash%20rao.217654a9.png" width="230" />
+
+- 🔭 I’m currently working as Control Management Associate at Wells Fargo...
 - 🌱 I’m currently learning Data Science, Power BI, etc.. 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more on open source 
 - ⚡ Fun fact: I love to go on long rides to reduce stress..
 
-### Languages and Tools:
-
-<img align="left" title="Tableau" alt="Tableau" width="26px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />
-<img align="left" title="Power BI" alt="Power BI" width="26px" src="https://www.kindpng.com/picc/m/204-2046931_power-bi-icon-power-bi-icon-png-transparent.png" />
-<img align="left" title="Python" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" title="SQL" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-
-
-<br />
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Tableau" width="22px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />][tableau]
-
-<br />
-
-[instagram]: https://www.instagram.com/ykr4798
-[linkedin]: https://www.linkedin.com/in/yashkumarrao/
-[tableau]: https://public.tableau.com/profile/yash.rao#!/
+<a href="https://www.linkedin.com/in/yashkumarrao/"><img src="https://github.com/ayashkumarrao/ayashkumarrao.github.io/blob/master/static/media/linkedin.d492efc7.png" width="40" /></a>
+<a href="https://github.com/ayashkumarrao"><img src="https://github.com/ayashkumarrao/ayashkumarrao.github.io/blob/master/static/media/github_logo.6eeb2e81.png" width="40" /></a>
+<a href="https://www.facebook.com/yash.rao.1042/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:a.yashkumarrao@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/ykr_4798"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/yash._.rao/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
