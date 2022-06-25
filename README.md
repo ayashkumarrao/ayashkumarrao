@@ -6,7 +6,7 @@
 <img align='right' src="https://github.com/ayashkumarrao/ayashkumarrao.github.io/blob/master/static/media/yash%20rao.217654a9.png" width="230" />
 
 - 🔭 I’m currently working as Control Management Associate at Wells Fargo...
-- 🌱 I’m currently learning Data Science, Power BI, etc.. 🤣
+- 🌱 I’m currently learning Data Science, Power BI, etc.. 
 - 🥅 2022 Goals: Contribute more on open source 
 - ⚡ Fun fact: I love to go on long rides to reduce stress..
 
